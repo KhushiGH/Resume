@@ -1,15 +1,15 @@
-# Khushi Kumari – Cloud and DevOps Engineer
+Khushi Kumari – Cloud and DevOps Engineer
 
-## About Me
+About Me
 
 I am a Cloud and DevOps enthusiast with strong hands-on experience in building distributed systems, high availability infrastructure, and automated deployment pipelines.
 
 I focus on designing scalable, fault-tolerant systems using cloud platforms and modern DevOps practices.
 
 
-## Key Project
+Key Project
 
-### Cloud Linked HPC – High Performance Computing Cluster on AWS
+Cloud Linked HPC – High Performance Computing Cluster on AWS
 
 Designed and implemented a cloud-based HPC cluster using AWS with:
 
@@ -26,7 +26,7 @@ Project Link
 https://github.com/khushi-pghpcsa/cloud-linked-hpc
 
 
-## Technical Skills
+Technical Skills
 
 Cloud Platforms
 AWS EC2, VPC, IAM, Networking
@@ -52,7 +52,7 @@ What I Bring
 * Experience with automation and monitoring
 
 
-# Contact
+Contact
 
 LinkedIn
 https://www.linkedin.com/in/khushi-kumari-957804358/
@@ -63,6 +63,6 @@ https://github.com/khushi-pghpcsa
 Email:khushikumari230104@gmail.com
 
 
-# Goal
+Goal
 
 I am looking for opportunities in Cloud, DevOps, and Infrastructure Engineering where I can contribute to building scalable and reliable systems.
